@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 from ase.calculators.vasp import Vasp
 from ase import Atoms, Atom
 import numpy as np
@@ -15,7 +13,8 @@ beh2_bound_length = 1.33  # Angstrom exp data
 atoms = Atoms([
     Atom('H', [0, 0, beh2_bound_length]),
     Atom('Be', [0, 0, 0]),
-    Atom('H', [0, 0, -beh2_bound_length])])
+    Atom('H', [0, 0, -beh2_bound_length])],
+    pbc=True)
 
 # Уменьшим размеры сетки для тестирования
 L = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
@@ -29,25 +28,39 @@ for xc in POTENTIALS:
     for encut in ENCUT:
         energies = []
         for l in L:
-            atoms.set_cell([l, l, l], scale_atoms=False)
-            atoms.center()
+            # Создаем копию атомов для каждого расчета
+            current_atoms = atoms.copy()
+            current_atoms.set_cell([l, l, l], scale_atoms=False)
+            current_atoms.center()
             
             # Создаем временную директорию
             with tempfile.TemporaryDirectory() as tmp_dir:
                 try:
-                    # Минимальная конфигурация - только самые необходимые параметры
+                    # Базовая конфигурация VASP
                     calc = Vasp(
-                        tmp_dir,
+                        directory=tmp_dir,
                         xc=xc,
                         encut=encut,
-                        restart = None
+                        istart=0,  # начинать с чистого листа
+                        icharg=2,  # атомные заряды
+                        prec='Normal',
+                        ismear=0,  # Гауссово размазывание
+                        sigma=0.1,  # ширина размазывания
+                        ediff=1e-4,  # точность по энергии
+                        nsw=0,  # без релаксации ионов
+                        ibrion=-1,  # без релаксации
+                        isif=2,  # рассчитать напряжения
+                        lwave=False,  # не писать файлы волновых функций
+                        lcharg=False,  # не писать файлы зарядов
+                        lreal='Auto'
                     )
                     
-                    atoms.calc = calc
+                    current_atoms.calc = calc
                     
-                    energy = atoms.get_potential_energy()
+                    energy = current_atoms.get_potential_energy()
                     energies.append(energy)
-                    print(f"XC: {xc}, ENCUT: {encut}, L: {l}, Energy: {energy}")
+                    print(f"XC: {xc}, ENCUT: {encut}, L: {l}, Energy: {energy:.6f}")
+                    
                 except Exception as e:
                     print(f"Error for XC: {xc}, ENCUT: {encut}, L: {l}: {e}")
                     energies.append(None)
@@ -58,17 +71,20 @@ for xc in POTENTIALS:
             valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
             valid_energies = [e for e in energies if e is not None]
             
-            plt.figure()
-            plt.plot(valid_L, valid_energies, 'bo-')
+            plt.figure(figsize=(10, 6))
+            plt.plot(valid_L, valid_energies, 'bo-', markersize=4)
             plt.xlabel('Unit cell length ($\AA$)')
             plt.ylabel('Total energy (eV)')
             plt.title(f'BeH2 - XC: {xc}, ENCUT: {encut}')
-            plt.savefig(f'images/beh2-e-v-{xc}-{encut}.png')
+            plt.grid(True, alpha=0.3)
+            plt.savefig(f'images/beh2-e-v-{xc}-{encut}.png', dpi=300, bbox_inches='tight')
             plt.close()
             
             # Сохраняем данные в текстовый файл
             with open(f'images/beh2-e-v-{xc}-{encut}.txt', 'w') as f:
                 for i, l in enumerate(valid_L):
-                    f.write(f"{l} {valid_energies[i]}\n")
+                    f.write(f"{l} {valid_energies[i]:.6f}\n")
         else:
             print(f"No successful calculations for XC: {xc}, ENCUT: {encut}")
+
+print("Расчет завершен!")
