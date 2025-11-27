@@ -1,0 +1,2720 @@
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 200
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 200
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 200
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 200, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 200
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 250
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 250
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 250
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 250, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 250
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 300
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 300
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 300
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 300, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 300
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 350
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 350
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 350
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 400
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 350, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 350
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 400
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 450
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 400
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 400, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 400
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 500
+Расчет завершен!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 450
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 450
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 450, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 450
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 5: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 6: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 500
+Расчет завершен!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 7: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 8: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 9: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 10: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 11: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 12: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 13: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 500
+Расчет завершен!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 14: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 15: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 16: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 17: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 18: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 19: No pseudopotential for H!
+Looking for potpaw_GGA/H/POTCAR
+                The pseudopotentials are expected to be in:
+                LDA:  $VASP_PP_PATH/potpaw/
+                PBE:  $VASP_PP_PATH/potpaw_PBE/
+                PW91: $VASP_PP_PATH/potpaw_GGA/
+Error for XC: PW91, ENCUT: 500, L: 20: No pseudopotential for H!
+No successful calculations for XC: PW91, ENCUT: 500
+Расчет завершен!

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from ase.calculators.vasp import Vasp
 from ase import Atoms, Atom
 import numpy as np
@@ -19,7 +21,7 @@ atoms = Atoms([
 # Уменьшим размеры сетки для тестирования
 L = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 ENCUT = [200, 250, 300, 350, 400, 450, 500]
-POTENTIALS = ['LDA', 'PBE', 'PW91']
+POTENTIALS = ['PW91']
 
 # Создаем директории для результатов
 os.makedirs('images', exist_ok=True)
@@ -38,7 +40,6 @@ for xc in POTENTIALS:
                 try:
                     # Базовая конфигурация VASP
                     calc = Vasp(
-                        directory=tmp_dir,
                         xc=xc,
                         encut=encut,
                         istart=0,  # начинать с чистого листа
@@ -54,6 +55,8 @@ for xc in POTENTIALS:
                         lcharg=False,  # не писать файлы зарядов
                         lreal='Auto'
                     )
+
+                    calc.directory=tmp_dir
                     
                     current_atoms.calc = calc
                     
