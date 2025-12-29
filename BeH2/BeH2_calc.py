@@ -59,7 +59,7 @@ for xc in POTENTIALS:
                     
                     current_atoms.calc = calc
                     
-                    energy = current_atoms.get_potential_energy()
+                    energy = current_atoms.get_total_energy()
                     energies.append(energy)
                     print(f"XC: {xc}, ENCUT: {encut}, L: {l}, Energy: {energy:.6f}")
                     
