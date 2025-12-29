@@ -20,7 +20,7 @@ atoms = Atoms([
 
 L = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 ENCUT = [200, 250, 300, 350, 400, 450, 500]
-POTENTIALS = ['PW91']
+POTENTIALS = ['LDA', 'PBE']
 
 # Создаем директории для результатов
 os.makedirs('images', exist_ok=True)

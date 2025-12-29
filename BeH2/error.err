@@ -1,0 +1,19 @@
+XC: LDA, ENCUT: 200, L: 5, Energy: -8.569330
+XC: LDA, ENCUT: 200, L: 5, Energy: -8.569330
+XC: LDA, ENCUT: 200, L: 5, Energy: -8.569330
+XC: LDA, ENCUT: 200, L: 5, Energy: -8.569330
+XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
+XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
+XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
+XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
+Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 512.  
+Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 34816.  
+Error for XC: LDA, ENCUT: 200, L: 8: list index out of range
+Error for XC: LDA, ENCUT: 200, L: 8: local variable 'forces' referenced before assignment
+Error for XC: LDA, ENCUT: 200, L: 8: local variable 'forces' referenced before assignment
+XC: LDA, ENCUT: 200, L: 8, Energy: -8.595016
+XC: LDA, ENCUT: 200, L: 9, Energy: -8.595016
+Error for XC: LDA, ENCUT: 200, L: 9: local variable 'forces' referenced before assignment
+Error for XC: LDA, ENCUT: 200, L: 9: local variable 'forces' referenced before assignment
