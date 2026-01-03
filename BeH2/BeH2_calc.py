@@ -25,9 +25,15 @@ POTENTIALS = ['LDA', 'PBE']
 # Создаем директории для результатов
 os.makedirs('images', exist_ok=True)
 
+print('atom symbol')
+print('===========')
+for i, atom in enumerate(atoms):
+    print('{0:2d} {1:3s}'.format(i, atom.symbol))
+
 for xc in POTENTIALS:
     for encut in ENCUT:
         energies = []
+        angles = []
         for l in L:
             # Создаем копию атомов для каждого расчета
             current_atoms = atoms.copy()
@@ -62,6 +68,10 @@ for xc in POTENTIALS:
                     energy = current_atoms.get_total_energy()
                     energies.append(energy)
                     print(f"XC: {xc}, ENCUT: {encut}, L: {l}, Energy: {energy:.6f}")
+
+                    # Угл связи
+                    da = atoms.get_dihedral([1, 0, 2]) * 180. / np.pi
+                    angles.append(da)
                     
                 except Exception as e:
                     print(f"Error for XC: {xc}, ENCUT: {encut}, L: {l}: {e}")
@@ -72,20 +82,11 @@ for xc in POTENTIALS:
             # Фильтруем None значения для построения графика
             valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
             valid_energies = [e for e in energies if e is not None]
-            
-            plt.figure(figsize=(10, 6))
-            plt.plot(valid_L, valid_energies, 'bo-', markersize=4)
-            plt.xlabel('Unit cell length ($\AA$)')
-            plt.ylabel('Total energy (eV)')
-            plt.title(f'BeH2 - XC: {xc}, ENCUT: {encut}')
-            plt.grid(True, alpha=0.3)
-            plt.savefig(f'images/beh2-e-v-{xc}-{encut}.png', dpi=300, bbox_inches='tight')
-            plt.close()
-            
+
             # Сохраняем данные в текстовый файл
             with open(f'images/beh2-e-v-{xc}-{encut}.txt', 'w') as f:
                 for i, l in enumerate(valid_L):
-                    f.write(f"{l} {valid_energies[i]:.6f}\n")
+                    f.write(f"{l} {valid_energies[i]:.6f} {angles[i]:.6f}\n")
         else:
             print(f"No successful calculations for XC: {xc}, ENCUT: {encut}")
 
