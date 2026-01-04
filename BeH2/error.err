@@ -1,19 +1,215 @@
-XC: LDA, ENCUT: 200, L: 5, Energy: -8.569330
-XC: LDA, ENCUT: 200, L: 5, Energy: -8.569330
-XC: LDA, ENCUT: 200, L: 5, Energy: -8.569330
-XC: LDA, ENCUT: 200, L: 5, Energy: -8.569330
-XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
-XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
-XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
-XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
-Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 256.  
-Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 512.  
-Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 256.  
-Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 34816.  
-Error for XC: LDA, ENCUT: 200, L: 8: list index out of range
-Error for XC: LDA, ENCUT: 200, L: 8: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 8: local variable 'forces' referenced before assignment
-XC: LDA, ENCUT: 200, L: 8, Energy: -8.595016
-XC: LDA, ENCUT: 200, L: 9, Energy: -8.595016
-Error for XC: LDA, ENCUT: 200, L: 9: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 9: local variable 'forces' referenced before assignment
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+STOP 1
+ -----------------------------------------------------------------------------
+|                                                                             |
+|     EEEEEEE  RRRRRR   RRRRRR   OOOOOOO  RRRRRR      ###     ###     ###     |
+|     E        R     R  R     R  O     O  R     R     ###     ###     ###     |
+|     E        R     R  R     R  O     O  R     R     ###     ###     ###     |
+|     EEEEE    RRRRRR   RRRRRR   O     O  RRRRRR       #       #       #      |
+|     E        R   R    R   R    O     O  R   R                               |
+|     E        R    R   R    R   O     O  R    R      ###     ###     ###     |
+|     EEEEEEE  R     R  R     R  OOOOOOO  R     R     ###     ###     ###     |
+|                                                                             |
+|     Error reading the file INCAR     please make sure the file exists       |
+|     and has the necessary read permissions.                                 |
+|                                                                             |
+|       ---->  I REFUSE TO CONTINUE WITH THIS SICK JOB ... BYE!!! <----       |
+|                                                                             |
+ -----------------------------------------------------------------------------
+
+STOP 1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ -----------------------------------------------------------------------------
+|                                                                             |
+|     EEEEEEE  RRRRRR   RRRRRR   OOOOOOO  RRRRRR      ###     ###     ###     |
+|     E        R     R  R     R  O     O  R     R     ###     ###     ###     |
+|     E        R     R  R     R  O     O  R     R     ###     ###     ###     |
+|     EEEEE    RRRRRR   RRRRRR   O     O  RRRRRR       #       #       #      |
+|     E        R   R    R   R    O     O  R   R                               |
+|     E        R    R   R    R   O     O  R    R      ###     ###     ###     |
+|     EEEEEEE  R     R  R     R  OOOOOOO  R     R     ###     ###     ###     |
+|                                                                             |
+|     Error reading the file INCAR     please make sure the file exists       |
+|     and has the necessary read permissions.                                 |
+|                                                                             |
+|       ---->  I REFUSE TO CONTINUE WITH THIS SICK JOB ... BYE!!! <----       |
+|                                                                             |
+ -----------------------------------------------------------------------------
+
+STOP 1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+At line 308 of file poscar.f90 (unit = 15, file = 'POSCAR')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+At line 308 of file poscar.f90 (unit = 15, file = 'POSCAR')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+#0  0x7fe66cb9a171 in ???
+#1  0x7fe66cb9ad19 in ???
+#2  0x7fe66cb9b521 in ???
+#3  0x7fe66cda312b in ???
+#4  0x7fe66cda3722 in ???
+#5  0x7fe66cda029b in ???
+#6  0x7fe66cda4e34 in ???
+#7  0x7fe66cda5ca4 in ???
+#8  0x47de37 in ???
+#9  0x11ad0f9 in ???
+#10  0x11de7d6 in ???
+#11  0x7fe66bbcad84 in ???
+#12  0x40a26d in ???
+#13  0xffffffffffffffff in ???
+#0  0x7f65117d5171 in ???
+#1  0x7f65117d5d19 in ???
+#2  0x7f65117d6521 in ???
+#3  0x7f65119de12b in ???
+#4  0x7f65119de722 in ???
+#5  0x7f65119db29b in ???
+#6  0x7f65119dfe34 in ???
+#7  0x7f65119e0ca4 in ???
+#8  0x47de37 in ???
+#9  0x11ad0f9 in ???
+#10  0x11de7d6 in ???
+#11  0x7f6510805d84 in ???
+#12  0x40a26d in ???
+#13  0xffffffffffffffff in ???
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+STOP 1
+ -----------------------------------------------------------------------------
+|                     _     ____    _    _    _____     _                     |
+|                    | |   |  _ \  | |  | |  / ____|   | |                    |
+|                    | |   | |_) | | |  | | | |  __    | |                    |
+|                    |_|   |  _ <  | |  | | | | |_ |   |_|                    |
+|                     _    | |_) | | |__| | | |__| |    _                     |
+|                    (_)   |____/   \____/   \_____|   (_)                    |
+|                                                                             |
+|     internal error in: pseudo.F  at line: 396                               |
+|                                                                             |
+|     RD_PSEUDO: internal ERROR: increase LDIM                                |
+|                                                                             |
+|     If you are not a developer, you should not encounter this problem.      |
+|     Please submit a bug report.                                             |
+|                                                                             |
+ -----------------------------------------------------------------------------
+
+STOP 1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+STOP 1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ -----------------------------------------------------------------------------
+|                                                                             |
+|     EEEEEEE  RRRRRR   RRRRRR   OOOOOOO  RRRRRR      ###     ###     ###     |
+|     E        R     R  R     R  O     O  R     R     ###     ###     ###     |
+|     E        R     R  R     R  O     O  R     R     ###     ###     ###     |
+|     EEEEE    RRRRRR   RRRRRR   O     O  RRRRRR       #       #       #      |
+|     E        R   R    R   R    O     O  R   R                               |
+|     E        R    R   R    R   O     O  R    R      ###     ###     ###     |
+|     EEEEEEE  R     R  R     R  OOOOOOO  R     R     ###     ###     ###     |
+|                                                                             |
+|     Error reading the file INCAR     please make sure the file exists       |
+|     and has the necessary read permissions.                                 |
+|                                                                             |
+|       ---->  I REFUSE TO CONTINUE WITH THIS SICK JOB ... BYE!!! <----       |
+|                                                                             |
+ -----------------------------------------------------------------------------
+
+STOP 1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+At line 308 of file poscar.f90 (unit = 15, file = 'POSCAR')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+#0  0x7f32dd32b171 in ???
+#1  0x7f32dd32bd19 in ???
+#2  0x7f32dd32c521 in ???
+#3  0x7f32dd53412b in ???
+#4  0x7f32dd534722 in ???
+#5  0x7f32dd53129b in ???
+#6  0x7f32dd535e34 in ???
+#7  0x7f32dd536ca4 in ???
+#8  0x47de37 in ???
+#9  0x11ad0f9 in ???
+#10  0x11de7d6 in ???
+#11  0x7f32dc35bd84 in ???
+#12  0x40a26d in ???
+#13  0xffffffffffffffff in ???
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+/usr/local/lib/python3.6/site-packages/ase/atoms.py:1545: FutureWarning: Please use new API (which will return the angle in degrees): atoms_obj.get_dihedral(a1,a2,a3,a4)*pi/180 instead of atoms_obj.get_dihedral([a1,a2,a3,a4])
+  'atoms_obj.get_dihedral([a1,a2,a3,a4])', FutureWarning)
+Traceback (most recent call last):
+  File "BeH2_calc.py", line 83, in <module>
+    valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
+  File "BeH2_calc.py", line 83, in <listcomp>
+    valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
+IndexError: list index out of range
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+/usr/local/lib/python3.6/site-packages/ase/atoms.py:1545: FutureWarning: Please use new API (which will return the angle in degrees): atoms_obj.get_dihedral(a1,a2,a3,a4)*pi/180 instead of atoms_obj.get_dihedral([a1,a2,a3,a4])
+  'atoms_obj.get_dihedral([a1,a2,a3,a4])', FutureWarning)
+Traceback (most recent call last):
+  File "BeH2_calc.py", line 83, in <module>
+    valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
+  File "BeH2_calc.py", line 83, in <listcomp>
+    valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
+IndexError: list index out of range
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+/usr/local/lib/python3.6/site-packages/ase/atoms.py:1545: FutureWarning: Please use new API (which will return the angle in degrees): atoms_obj.get_dihedral(a1,a2,a3,a4)*pi/180 instead of atoms_obj.get_dihedral([a1,a2,a3,a4])
+  'atoms_obj.get_dihedral([a1,a2,a3,a4])', FutureWarning)
+Traceback (most recent call last):
+  File "BeH2_calc.py", line 83, in <module>
+    valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
+  File "BeH2_calc.py", line 83, in <listcomp>
+    valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
+IndexError: list index out of range
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+/usr/local/lib/python3.6/site-packages/ase/atoms.py:1545: FutureWarning: Please use new API (which will return the angle in degrees): atoms_obj.get_dihedral(a1,a2,a3,a4)*pi/180 instead of atoms_obj.get_dihedral([a1,a2,a3,a4])
+  'atoms_obj.get_dihedral([a1,a2,a3,a4])', FutureWarning)
+Traceback (most recent call last):
+  File "BeH2_calc.py", line 83, in <module>
+    valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
+  File "BeH2_calc.py", line 83, in <listcomp>
+    valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
+IndexError: list index out of range
