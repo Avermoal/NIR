@@ -1,0 +1,4 @@
+ ISMEAR = 0 ! Gaussian smearing
+ ISPIN  = 2 ! spin-polarized calculation
+ NSW    = 5 ! 5 ionic steps
+ IBRION = 2 ! use the conjugate-gradient algorithm
