@@ -39,7 +39,7 @@ for xc in POTENTIALS:
             current_atoms = atoms.copy()
             current_atoms.set_cell([l, l, l], scale_atoms=False)
             current_atoms.center()
-            
+
             # Создаем временную директорию
             with tempfile.TemporaryDirectory() as tmp_dir:
                 try:
@@ -62,31 +62,38 @@ for xc in POTENTIALS:
                     )
 
                     calc.directory=tmp_dir
-                    
+
                     current_atoms.calc = calc
-                    
+
                     energy = current_atoms.get_total_energy()
                     energies.append(energy)
                     print(f"XC: {xc}, ENCUT: {encut}, L: {l}, Energy: {energy:.6f}")
 
-                    # Угл связи
-                    da = atoms.get_dihedral([1, 0, 2]) * 180. / np.pi
+                    # Угл связи - ИСПРАВЛЕНО: используем current_atoms вместо atoms
+                    da = current_atoms.get_dihedral([0, 1, 2]) * 180. / np.pi
                     angles.append(da)
-                    
+
                 except Exception as e:
                     print(f"Error for XC: {xc}, ENCUT: {encut}, L: {l}: {e}")
                     energies.append(None)
-        
+                    angles.append(None)  # Добавляем None для соответствия размеров списков
+
         # Строим график только если есть успешные расчеты
         if any(e is not None for e in energies):
             # Фильтруем None значения для построения графика
             valid_L = [L[i] for i in range(len(energies)) if energies[i] is not None]
             valid_energies = [e for e in energies if e is not None]
+            valid_angles = [angles[i] for i in range(len(angles)) if energies[i] is not None]
 
             # Сохраняем данные в текстовый файл
             with open(f'images/beh2-e-v-{xc}-{encut}.txt', 'w') as f:
                 for i, l in enumerate(valid_L):
-                    f.write(f"{l} {valid_energies[i]:.6f} {angles[i]:.6f}\n")
+                    f.write(f"{l} {valid_energies[i]:.6f}\n")
+
+            # Также можно сохранить отдельный файл с углами
+            with open(f'images/beh2-angles-{xc}-{encut}.txt', 'w') as f:
+                for i, l in enumerate(valid_L):
+                    f.write(f"{l} {valid_angles[i]:.6f}\n")
         else:
             print(f"No successful calculations for XC: {xc}, ENCUT: {encut}")
 
