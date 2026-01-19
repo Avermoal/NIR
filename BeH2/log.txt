@@ -34,77 +34,82 @@ XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
 Error for XC: LDA, ENCUT: 200, L: 6: not enough values to unpack (expected 4, got 3)
 XC: LDA, ENCUT: 200, L: 6, Energy: -8.560899
 Error for XC: LDA, ENCUT: 200, L: 6: not enough values to unpack (expected 4, got 3)
-Error for XC: LDA, ENCUT: 200, L: 7: invalid literal for int() with base 10: 'atomic energy  EATOM  =        51.28159139'
-Error for XC: LDA, ENCUT: 200, L: 7: invalid literal for int() with base 10: 'atomic energy  EATOM  =        51.28159139'
-Error for XC: LDA, ENCUT: 200, L: 7: invalid literal for int() with base 10: 'atomic energy  EATOM  =        51.28159139'
-Error for XC: LDA, ENCUT: 200, L: 7: invalid literal for int() with base 10: 'atomic energy  EATOM  =        51.28159139'
-XC: LDA, ENCUT: 200, L: 8, Energy: -8.586998
-Error for XC: LDA, ENCUT: 200, L: 8: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 8, Energy: -8.586998
-Error for XC: LDA, ENCUT: 200, L: 8: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 8, Energy: -8.586998
-Error for XC: LDA, ENCUT: 200, L: 8: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 8, Energy: -8.586998
-Error for XC: LDA, ENCUT: 200, L: 8: not enough values to unpack (expected 4, got 3)
-Error for XC: LDA, ENCUT: 200, L: 9: Vasp exited with exit code: 256.  
-Error for XC: LDA, ENCUT: 200, L: 9: Vasp exited with exit code: 256.  
-Error for XC: LDA, ENCUT: 200, L: 9: local variable 'forces' referenced before assignment
-XC: LDA, ENCUT: 200, L: 9, Energy: 0.007000
+Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 7: Vasp exited with exit code: 256.  
+XC: LDA, ENCUT: 200, L: 7, Energy: -8.586998
+Error for XC: LDA, ENCUT: 200, L: 7: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 7, Energy: -8.586998
+Error for XC: LDA, ENCUT: 200, L: 7: not enough values to unpack (expected 4, got 3)
+Error for XC: LDA, ENCUT: 200, L: 8: local variable 'forces' referenced before assignment
+Error for XC: LDA, ENCUT: 200, L: 8: local variable 'forces' referenced before assignment
+Error for XC: LDA, ENCUT: 200, L: 8: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 8: Vasp exited with exit code: 34816.  
+XC: LDA, ENCUT: 200, L: 9, Energy: -8.595016
 Error for XC: LDA, ENCUT: 200, L: 9: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 10, Energy: -8.590100
+Error for XC: LDA, ENCUT: 200, L: 9: local variable 'forces' referenced before assignment
+Error for XC: LDA, ENCUT: 200, L: 9: local variable 'forces' referenced before assignment
+Error for XC: LDA, ENCUT: 200, L: 9: Vasp exited with exit code: 512.  
+Error for XC: LDA, ENCUT: 200, L: 10: Vasp exited with exit code: 256.  
+XC: LDA, ENCUT: 200, L: 10, Energy: -8.578240
 Error for XC: LDA, ENCUT: 200, L: 10: not enough values to unpack (expected 4, got 3)
-Error for XC: LDA, ENCUT: 200, L: 10: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 11: Vasp exited with exit code: 256.  
-Error for XC: LDA, ENCUT: 200, L: 10: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 10: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 11: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 11: Vasp exited with exit code: 512.  
-Error for XC: LDA, ENCUT: 200, L: 11: Vasp exited with exit code: 512.  
-Error for XC: LDA, ENCUT: 200, L: 12: local variable 'forces' referenced before assignment
-XC: LDA, ENCUT: 200, L: 12, Energy: -8.586209
+XC: LDA, ENCUT: 200, L: 10, Energy: -8.578240
+Error for XC: LDA, ENCUT: 200, L: 10: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 11, Energy: -8.578240
+Error for XC: LDA, ENCUT: 200, L: 11: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 10, Energy: -8.578240
+Error for XC: LDA, ENCUT: 200, L: 10: not enough values to unpack (expected 4, got 3)
+Error for XC: LDA, ENCUT: 200, L: 11: list index out of range
+XC: LDA, ENCUT: 200, L: 12, Energy: -8.578240
 Error for XC: LDA, ENCUT: 200, L: 12: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 12, Energy: -8.586209
-Error for XC: LDA, ENCUT: 200, L: 12: not enough values to unpack (expected 4, got 3)
-Error for XC: LDA, ENCUT: 200, L: 13: local variable 'forces' referenced before assignment
+XC: LDA, ENCUT: 200, L: 11, Energy: -8.578240
+Error for XC: LDA, ENCUT: 200, L: 11: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 11, Energy: -8.578240
+Error for XC: LDA, ENCUT: 200, L: 11: not enough values to unpack (expected 4, got 3)
+Error for XC: LDA, ENCUT: 200, L: 12: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 13: Vasp exited with exit code: 512.  
+Error for XC: LDA, ENCUT: 200, L: 12: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 13: Vasp exited with exit code: 256.  
 Error for XC: LDA, ENCUT: 200, L: 12: local variable 'forces' referenced before assignment
+Error for XC: LDA, ENCUT: 200, L: 14: local variable 'forces' referenced before assignment
 Error for XC: LDA, ENCUT: 200, L: 13: local variable 'forces' referenced before assignment
-XC: LDA, ENCUT: 200, L: 13, Energy: 0.000000
+Error for XC: LDA, ENCUT: 200, L: 15: Vasp exited with exit code: 512.  
+Error for XC: LDA, ENCUT: 200, L: 14: local variable 'forces' referenced before assignment
+XC: LDA, ENCUT: 200, L: 13, Energy: -8.601457
 Error for XC: LDA, ENCUT: 200, L: 13: not enough values to unpack (expected 4, got 3)
-Error for XC: LDA, ENCUT: 200, L: 14: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 13: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 14: Vasp exited with exit code: 256.  
-Error for XC: LDA, ENCUT: 200, L: 15: Vasp exited with exit code: 256.  
-Error for XC: LDA, ENCUT: 200, L: 14: local variable 'forces' referenced before assignment
-XC: LDA, ENCUT: 200, L: 14, Energy: 0.000000
-Error for XC: LDA, ENCUT: 200, L: 14: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 15, Energy: 0.000000
-Error for XC: LDA, ENCUT: 200, L: 15: not enough values to unpack (expected 4, got 3)
-Error for XC: LDA, ENCUT: 200, L: 15: Vasp exited with exit code: 256.  
-Error for XC: LDA, ENCUT: 200, L: 16: local variable 'ediff' referenced before assignment
-XC: LDA, ENCUT: 200, L: 15, Energy: 0.000000
-Error for XC: LDA, ENCUT: 200, L: 15: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 16, Energy: -8.590477
+XC: LDA, ENCUT: 200, L: 16, Energy: -8.601457
 Error for XC: LDA, ENCUT: 200, L: 16: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 17, Energy: -8.590477
-Error for XC: LDA, ENCUT: 200, L: 17: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 16, Energy: -8.590477
-Error for XC: LDA, ENCUT: 200, L: 16: not enough values to unpack (expected 4, got 3)
+Error for XC: LDA, ENCUT: 200, L: 14: local variable 'forces' referenced before assignment
+Error for XC: LDA, ENCUT: 200, L: 15: local variable 'forces' referenced before assignment
 Error for XC: LDA, ENCUT: 200, L: 17: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 15: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 16: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 18: Vasp exited with exit code: 256.  
+Error for XC: LDA, ENCUT: 200, L: 14: local variable 'forces' referenced before assignment
+XC: LDA, ENCUT: 200, L: 19, Energy: -8.592769
+Error for XC: LDA, ENCUT: 200, L: 19: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 16, Energy: -8.592769
+Error for XC: LDA, ENCUT: 200, L: 16: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 17, Energy: -8.592769
+Error for XC: LDA, ENCUT: 200, L: 17: not enough values to unpack (expected 4, got 3)
+Error for XC: LDA, ENCUT: 200, L: 20: Vasp exited with exit code: 256.  
+XC: LDA, ENCUT: 200, L: 15, Energy: 0.000000
+Error for XC: LDA, ENCUT: 200, L: 15: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 17, Energy: -8.597355
+Error for XC: LDA, ENCUT: 200, L: 17: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 18, Energy: -8.597355
+Error for XC: LDA, ENCUT: 200, L: 18: not enough values to unpack (expected 4, got 3)
+Error for XC: LDA, ENCUT: 200, L: 18: Vasp exited with exit code: 256.  
 Error for XC: LDA, ENCUT: 200, L: 16: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 17: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 18: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 18: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 17: local variable 'forces' referenced before assignment
 Error for XC: LDA, ENCUT: 200, L: 19: Vasp exited with exit code: 512.  
-Error for XC: LDA, ENCUT: 200, L: 18: invalid literal for int() with base 10: '--------------------------------------- Iteration      ---------------------------------------------------'
 Error for XC: LDA, ENCUT: 200, L: 19: local variable 'forces' referenced before assignment
+XC: LDA, ENCUT: 200, L: 20, Energy: 0.000000
+Error for XC: LDA, ENCUT: 200, L: 20: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 17, Energy: -8.597345
+Error for XC: LDA, ENCUT: 200, L: 17: not enough values to unpack (expected 4, got 3)
+XC: LDA, ENCUT: 200, L: 18, Energy: -8.597355
+Error for XC: LDA, ENCUT: 200, L: 18: not enough values to unpack (expected 4, got 3)
 Error for XC: LDA, ENCUT: 200, L: 20: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 18: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 19: local variable 'forces' referenced before assignment
-Error for XC: LDA, ENCUT: 200, L: 20: local variable 'ediff' referenced before assignment
 XC: LDA, ENCUT: 200, L: 19, Energy: -8.590574
 Error for XC: LDA, ENCUT: 200, L: 19: not enough values to unpack (expected 4, got 3)
-XC: LDA, ENCUT: 200, L: 20, Energy: -8.597345
-Error for XC: LDA, ENCUT: 200, L: 20: not enough values to unpack (expected 4, got 3)
 XC: LDA, ENCUT: 200, L: 20, Energy: -8.597345
 Error for XC: LDA, ENCUT: 200, L: 20: not enough values to unpack (expected 4, got 3)
