@@ -23,7 +23,7 @@ for xc in XC:
         energies = []
         dist = []
 
-        for distance in np.arange(0.1, 4, 0.1):
+        for distance in np.arange(0.1, 1.5, 0.001):
             dist.append(distance)
             #Создаём копию atoms для расчётов
             current_atoms = atoms.copy()
