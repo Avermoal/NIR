@@ -1,8 +1,9 @@
 INCAR created by Atomic Simulation Environment
- ENCUT = 400.000000
+ ENCUT = 500.000000
  SIGMA = 0.010000
  EDIFF = 1.00e-06
  ALGO = Normal
+ GGA = PE
  PREC = Normal
  IBRION = -1
  ICHARG = 2
